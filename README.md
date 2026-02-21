@@ -1,4 +1,4 @@
-📰 Fake News Detection System
+# 📰 Fake News Detection System
 🤖 Machine Learning + Gemini AI Powered News Verification
 
 🐍 Python: 3.10
@@ -11,7 +11,7 @@
 
 ✅ Project Status: Completed
 
-📌 Overview
+# 📌 Overview
 
 A Machine Learning based Fake News Detection Web Application that classifies news articles as Fake or Real using multiple ML models combined with Google Gemini AI verification and explanation system.
 
