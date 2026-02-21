@@ -17,7 +17,7 @@ A Machine Learning based Fake News Detection Web Application that classifies new
 
 The final result is generated using an Ensemble Voting Mechanism for improved reliability and accuracy.
 
-📊 Model Accuracy
+# 📊 Model Accuracy
 Model	Accuracy
 Logistic Regression	95%
 Random Forest	96%
@@ -38,7 +38,7 @@ Dataset Contains:
 
 🏷️ Label (Fake / Real)
 
-🎯 Project Motivation
+# 🎯 Project Motivation
 
 With the rapid growth of digital media, misinformation spreads quickly and influences public perception.
 
@@ -52,7 +52,7 @@ This project aims to:
 
 🌐 Create a simple and interactive web interface
 
-🧠 Models Used
+# 🧠 Models Used
 
 Logistic Regression
 
@@ -67,7 +67,7 @@ Google Gemini AI (Additional Verification)
 📌 Feature Extraction: TF-IDF Vectorization
 📌 Final Decision: Majority Voting (5 total votes)
 
-⚙️ How It Works
+# ⚙️ How It Works
 
 1️⃣ User enters news text.
 2️⃣ Text cleaning & preprocessing.
@@ -77,4 +77,3 @@ Google Gemini AI (Additional Verification)
 6️⃣ Final result generated using voting.
 7️⃣ Confidence score displayed.
 
-Agar chaho to main isme installation steps + folder structure + screenshots section bhi add karke ek complete professional GitHub README bana du 🔥
