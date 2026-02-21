@@ -69,7 +69,7 @@ Google Gemini AI (Additional Verification)
 
 # ⚙️ How It Works
 
-1️⃣ User enters news text.
+1️⃣ User enters news text
 2️⃣ Text cleaning & preprocessing.
 3️⃣ TF-IDF vectorization.
 4️⃣ ML models make predictions.
